@@ -22,12 +22,3 @@ p,ul,ol,dl,address {
 p, li, dd, dt, address {
   line-height: 1.5;
 }
-
-.serif {
-  font-family: "Times New Roman", Times, serif;
-}
-
-.c {
-  text-indent: -2.25em;
-  margin-left: 2.25em;
-}
